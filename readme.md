@@ -1,6 +1,6 @@
 # Machine Learning in Finance
 
-<img src="res/images/techA.png" alt="ML in Finance" />
+<img src="res/images/movingA.png" alt="ML in Finance" />
 
 This repository contains a collection of projects applying machine learning techniques to various financial problems. The projects cover different areas including time series forecasting, price prediction using deep learning, outlier detection for fraud prevention, and portfolio optimization. The repository is structured into multiple sub-projects, each focusing on specific methods and financial applications.
 
@@ -96,6 +96,9 @@ pip install -r requirements.txt
 # provided on demand
 export FINANCE_DATA_DIR=~/finance_data
 ```
+
+## Resources
+- [Anomaly Detection in Financial Data Using Isolation Forest](res/docs/Anomaly_Detection_in_Financial_Data_Using_Isolation_Forest.pdf)
 
 ## Contributing
 
