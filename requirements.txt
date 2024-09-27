@@ -1,0 +1,6 @@
+yfinance
+plotly
+pandas-datareader
+yahoofinancials
+cvxpy
+scikit-learn
