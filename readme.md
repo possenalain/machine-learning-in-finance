@@ -9,11 +9,11 @@ This repository contains a collection of projects applying machine learning tech
 ## Table of Contents
 
 - [Project Overview](#project-overview)
+- [Portfolio Optimization](#portfolio-optimization)
 - [Autoregressive Models](#autoregressive-models)
+- [Price Predictions](#price-predictions)
 - [CNN, LSTM, Transformer, and Price Prediction](#cnn-lstm-transformer-and-price-prediction)
 - [Isolation Forest for Outlier Detection](#isolation-forest-for-outlier-detection)
-- [Portfolio Optimization](#portfolio-optimization)
-- [Price Predictions](#price-predictions)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
 
@@ -81,8 +81,6 @@ The isolation forest algorithm is widely used for anomaly detection, including d
 
 
 ## How to Use
-
-## Setup
 
 ```bash 
 
